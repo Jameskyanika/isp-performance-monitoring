@@ -89,9 +89,7 @@ The tests showed that the ISP consistently delivered speeds close to the subscri
 - Evidence-based troubleshooting
 - Management reporting
 
-## Evidence
-## Key Findings
-
+## Add key ISP findings and business outcomes
 The monitored 100 Mbps ISP connection demonstrated stable and efficient performance.
 
 - Typical bandwidth utilization remained between 50 and 60 Mbps.
