@@ -90,6 +90,31 @@ The tests showed that the ISP consistently delivered speeds close to the subscri
 - Management reporting
 
 ## Evidence
+## Key Findings
+
+The monitored 100 Mbps ISP connection demonstrated stable and efficient performance.
+
+- Typical bandwidth utilization remained between 50 and 60 Mbps.
+- No prolonged bandwidth saturation was observed.
+- Short traffic spikes remained within acceptable operating limits.
+- Approximately 40–50 Mbps remained available for temporary demand increases.
+- Average download performance was 93.92 Mbps.
+- Average upload performance was 85.43 Mbps.
+- Average latency was 3.3 ms.
+- No prolonged outages were identified during the monitored reporting period.
+
+## Business Outcome
+
+The monitoring confirmed that the internet connection was delivering performance close to the subscribed capacity while retaining sufficient bandwidth for peak operational demand.
+
+The reports provided evidence for:
+
+- ISP service-quality assessment
+- Capacity planning
+- Bandwidth-upgrade decisions
+- Performance trend identification
+- Troubleshooting and ISP escalation
+- Management reporting
 
 This repository will contain sanitized versions of:
 
